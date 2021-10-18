@@ -7,7 +7,7 @@ import Signup from "./components/Signup";
 
 export default ({ history, onSignIn }) => {
   return (
-    <div>
+    <div style={{borderWidth:5,borderColor:'#eee',borderStyle:'ridge'}}>
         <Router history={history}>
           <Switch>
             <Route path="/signin">
