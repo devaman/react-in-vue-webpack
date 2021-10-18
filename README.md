@@ -9,3 +9,6 @@ React in Vue js
 5. Lerna used for managing multiple projects
 
 > If you liked the project, do give a star to the repo. :)
+
+### Demo
+![demo](https://raw.githubusercontent.com/devaman/react-in-vue-webpack/master/modulefederation.gif)
