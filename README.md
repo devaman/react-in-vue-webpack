@@ -1,5 +1,7 @@
 React in Vue js
 
+![twitter-badge](https://img.shields.io/twitter/follow/amit_chambial?style=social)
+
 ----
 
 1. React router and Vue router linked together
