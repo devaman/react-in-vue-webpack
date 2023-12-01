@@ -14,3 +14,8 @@ React in Vue js
 
 ### Demo
 ![demo](https://raw.githubusercontent.com/devaman/react-in-vue-webpack/master/modulefederation.gif)
+
+# How to run
+1. run `npm i`
+2. run `npm run init`
+3. run `npm start`
