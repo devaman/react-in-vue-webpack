@@ -16,6 +16,7 @@ React in Vue js
 ![demo](https://raw.githubusercontent.com/devaman/react-in-vue-webpack/master/modulefederation.gif)
 
 # How to run
+In root directory run following commands
 1. run `npm i`
 2. run `npm run init`
 3. run `npm start`
